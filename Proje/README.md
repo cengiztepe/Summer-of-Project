@@ -1,14 +1,17 @@
-Projede kullanılan kodlar burada bulunur
+Proje kapsamÄ±nda yazÄ±lan kodlarÄ± iÃ§erir.
 
-Projede NI 6024E kart¿ kullan¿lm¿¿t¿r.
-NI 6024E modelinin özelliklerinden de bahsedelim;
+projede NI 6024E DAQ kartÄ± kullanÄ±lmÄ±ÅŸtÄ±r.
 
-*    16 kanal analog giri¿i
-*    2 kanak analog ç¿k¿¿¿
+ NI 6024E modelinin Ã¶zelliklerinden de bahsedelim;
+
+*    16 kanal analog giriÅŸi
+*    2 kanak analog Ã§Ä±kÄ±ÅŸÄ±
 *    68 pin connector
-*    8 digital giri¿-ç¿k¿¿ kanal¿
-*    3 adet zamanlay¿c¿ grubu 
-*    7 adet 24 bit, 3 adet 16 bit say¿c¿ içermektedir.
-*    Sinyal iyile¿tirme uzant¿lar¿ (bu sayede termokupullar¿ndan,gerilim ölçer
-     ve ak¿m kaynaklar¿ndan veri alabilbektedir.)
+*    8 digital giriÅŸ-Ã§Ä±kÄ±ÅŸ kanalÄ±
+*    3 adet zamanlayÄ±cÄ± grubu
+*    7 adet 24 bit, 3 adet 16 bit sayÄ±cÄ± iÃ§ermektedir.
+*    Sinyal iyileÅŸtirme uzantÄ±larÄ± (bu sayede termokupullarÄ±ndan,gerilim Ã¶lÃ§er
+     ve akÄ±m kaynaklarÄ±ndan veri alabilbektedir.)
+
+     ![NI 6024E](https://github.com/zaman/file/raw/master/pci-ni6024e.jpg)
 
