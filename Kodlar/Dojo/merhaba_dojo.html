@@ -1,0 +1,45 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>button</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<script type="text/javascript">
+		  dojo.require("dojo.event.*");
+		  dojo.require("dojo.widget.*");
+		  dojo.require("dojo.widget.Button");
+
+		  function merhabaPressed()
+		  {
+			alert('Merhaba Dojo');
+		  }
+
+		  function init()
+		  {
+			var merhabaButonu = dojo.widget.byId('merhabaButonu');
+			dojo.event.connect(merhabaButton, 'onClick', 'merhabaPressed')
+		  }
+
+		dojo.addOnLoad(init);
+    </script>
+</style>
+</head>
+<body>
+<center>
+
+<body>
+<center>
+<table width="100%"  border="0" cellspacing="0" cellpadding="0" style="border:1px solid #BFBFBF; padding:0 10 0 10px;">
+<tr>
+<td>
+<p align="center">
+<font size="6" color="#800000">Dojo ile Merhaba</font></p>
+
+<button dojoType="Button" widgetId="merhabaButonu" onClick="merhabaPressed();">Merhaba Dojo!</button>
+<br>
+</tr>
+</td>
+</center>
+</body>
+</html>
