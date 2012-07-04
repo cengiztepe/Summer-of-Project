@@ -1,16 +1,17 @@
-Yapılanlar
----------
+# Haziran 24-30
 
-Linux makine üzerine cherrypy modülü yuklendi ve yapılan işlemler özetlendi
+## Done 
 
-Cherrypy tutorialleri incelendi
+- Linux makine üzerine cherrypy modülü yuklendi ve yapılan işlemler özetlendi
 
-Linux makinada daq kartı driverları yüklenmeye çalışıldı. Ancak driverlar ubuntu ve debian için uyumsuz çıktı. 
+- Cherrypy tutorialleri incelendi
 
+- Linux makinada daq kartı driverları yüklenmeye çalışıldı. Ancak driverlar ubuntu ve debian için uyumsuz çıktı. 
 
-Yapılacaklar
------------
+## Doing
 
-Cherrypy ile hazırlanan çalışmalar web üzerine taşınacak
+## Todo
 
-Ubuntu ve Debian için driverların nasıl yüklenebileceği araştırılacak
+-Cherrypy ile hazırlanan çalışmalar web üzerine taşınacak
+
+-Ubuntu ve Debian için driverların nasıl yüklenebileceği araştırılacak
