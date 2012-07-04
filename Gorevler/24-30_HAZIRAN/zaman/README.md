@@ -12,6 +12,6 @@
 
 ## Todo
 
--Cherrypy ile hazırlanan çalışmalar web üzerine taşınacak
+- Cherrypy ile hazırlanan çalışmalar web üzerine taşınacak
 
--Ubuntu ve Debian için driverların nasıl yüklenebileceği araştırılacak
+- Ubuntu ve Debian için driverların nasıl yüklenebileceği araştırılacak
