@@ -7,13 +7,13 @@
 - <http://code.google.com/p/pylibnidaqmx/> adresindeki kodlar çalıştırılıp
   osiloskoptan çıkış alındı.
 
-  - Cheery kütüphanesi incelenmeye başlandı
+- Cheery kütüphanesi incelenmeye başlandı
 
-  ## Doing
+## Doing
 
-  ## Todo
+## Todo
 
-  - Cheery ile veri almaya çalışılacak.
+- Cheery ile veri almaya çalışılacak.
 
-  - PyDAQmx kütüphanesi linux ortamında kurulmaya çalışılacak.
+- PyDAQmx kütüphanesi linux ortamında kurulmaya çalışılacak.
 
