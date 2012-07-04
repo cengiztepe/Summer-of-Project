@@ -29,7 +29,7 @@ Dojo'yu kullanmanın iki farklı yolu vardır.
 #### Online Modda kullanmak
 HTML dosyamıza aşağıdaki dizgeyi ekleyerek
 
-"<script src="//ajax.googleapis.com/ajax/libs/dojo/1.7.2/dojo/dojo.js"
+-< script src="//ajax.googleapis.com/ajax/libs/dojo/1.7.2/dojo/dojo.js"
       data-dojo-config="async: true"></script>"
 
 #### Çevrimdışı Modda kullanmak
