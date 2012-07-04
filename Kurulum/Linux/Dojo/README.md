@@ -26,13 +26,13 @@ DojoX, eklentilerin geliştirildiği katmandır.
 
 Dojo'yu kullanmanın iki farklı yolu vardır. 
 
-## Online Modda kullanmak
+#### Online Modda kullanmak
 HTML dosyamıza aşağıdaki dizgeyi ekleyerek
 
   - <script src="//ajax.googleapis.com/ajax/libs/dojo/1.7.2/dojo/dojo.js"
                  data-dojo-config="async: true"></script>
 
-## Çevrimdışı Modda kullanmak
+#### Çevrimdışı Modda kullanmak
 
   - http://dojotoolkit.org/download/ adresinden gerekli paketler indirilerek
     kullanılabir.
