@@ -1,0 +1,1 @@
+EKG arayüzü için faydalanýlan dökümalnarý içerir

@@ -1,0 +1,1 @@
+ekg tez çalýþmasýna ve diðer arayüzlere iliþkin ekran görüntüleri
