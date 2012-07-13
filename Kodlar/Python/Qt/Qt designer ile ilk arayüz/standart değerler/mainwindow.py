@@ -3,6 +3,8 @@
 
 from PyQt4 import QtGui
 from ui_untitled import Ui_Dialog
+#dosya ismi değişikliğinde sadece ui_untitled değişecek
+#sınıf değişikliğinde 5. 9. satırlardaki Ui_Dialog lar değişecek. 
 
 class MainWindow(QtGui.QMainWindow, Ui_Dialog):
 # Bu satırda MainWindow adında bir sınıf oluşturuyor ve bu sınıfı oluştururken
